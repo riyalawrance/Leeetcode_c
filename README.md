@@ -1,7 +1,7 @@
-# LeetCode Solutions in C
+# LeetCode Solutions
 
 ## 📌 Description
-This repository contains solutions to various LeetCode problems implemented in the C programming language.  
+This repository contains solutions to various LeetCode problems implemented in the C and python programming language.  
 Each problem includes its description and a corresponding solution for better understanding and reference.
 
 ## 📂 Repository Structure
@@ -15,7 +15,7 @@ LeetCode-Solutions/
 │  
 ├── leetcode/ # Contains C solutions  
 │ ├── problem1.c  
-│ ├── problem2.c  
+│ ├── problem2.py  
 │ └── ...  
 │  
 └── README.md  
@@ -24,12 +24,12 @@ LeetCode-Solutions/
 ## 🚀 Features
 - Well-organized folder structure
 - Problem statements included
-- Solutions written in C
+- Solutions written in C and pyhton
 - Easy to navigate and understand
 - Helpful for practice and revision
 
 ## 🛠️ Technologies Used
-- Programming Language: C
+- Programming Language: C, python
 - Platform: LeetCode
 - Version Control: Git & GitHub
 
